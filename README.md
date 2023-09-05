@@ -1,2 +1,2 @@
 # Calculatorproject
-This is my calculator project usinh html,css,javascript.
+This is my calculator project built using html,css,javascript.
